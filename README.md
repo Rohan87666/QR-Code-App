@@ -5,10 +5,15 @@ I created this QR Code App as my first project in Flutter.
 This is a simple QR Code Scanner and Generator app built using Flutter. The home screen contains two main options:
 
   . Scan QR Code – Scan a QR code using the device camera and display the scanned data.
+
   . Generate QR Code – Enter text or other data and generate a QR code by clicking the Generate QR Code button.
 
 # Technologies Used
   . Flutter
+
   . Dart
+
   . mobile_scanner – for scanning QR codes
+
   . qr_flutter – for generating QR codes
+  
